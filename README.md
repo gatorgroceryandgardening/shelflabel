@@ -9,3 +9,7 @@ The shelf label will ONLY need to show the Product name, price and UPC number fo
 The ESP32/8266 use bluetooth to interact with a mobile device to provide additional information as well as price and product changes. The label can even show the quantity available on the shelf,
 
 ![1712370054537](image/README/1712370054537.png)
+
+## Designing and Building the User Display
+
+[![Arduino & OLED: No Coding Needed (Arduino UNO, SSD1306 OLED IIC, Lopaka, Photopea, u8g2)](http://i3.ytimg.com/vi/Eyvzw_ujcS0/hqdefault.jpg)](https://youtu.be/Eyvzw_ujcS0?si=zv6Bn7JIvrzublmn)
